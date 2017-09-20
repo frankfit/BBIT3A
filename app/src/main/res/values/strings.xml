@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BBIT3B</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtuname_hint">Username</string>
+    <string name="txtpassword_hint">Password</string>
+    <string name="txtlogin_hint">Login</string>
+    <string name="txtregister_hint">Register</string>
+    <string name="title_activity_register">Register</string>
+    <string name="txtemail_hint">Email</string>string>
+    <string name="txtfname_hint">First Name</string>
+    <string name="txtlname_hint">Last Name</string>
+    <string name="txtmobile_hint">Phone Number</string>
+
+</resources>
